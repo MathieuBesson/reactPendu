@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Acme&display=swap");
+
+body {
+	margin: 0;
+	height: 90vh;
+	color: white;
+	font-family: "Acme", sans-serif;
+	text-align: center;
+	background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("./bg-img.jpg") center center no-repeat;
+	background-size: cover;
+}
+.app {
+	position: relative;
+	top: 33vh;
+}
+
+h1{
+	font-size: 40px;
+}
+
+.letters {
+	letter-spacing: 0.5rem;
+	font-size: 25px;
+}
+
+button {
+	border: 0;
+	margin: 5px;
+	padding: 10px;
+	font-size: 25px;
+	color: white;
+	border-radius: 10px;
+}
+button:focus {
+	outline: none;
+}
+
+.error {
+	background-color: #c70039;
+}
+
+.hidden {
+	background-color: #111d5e;
+}
+
+.found {
+	background-color: #f37121;
+}
+
+.keys {
+	text-align: center;
+}
+.keys button {
+	cursor: pointer;
+}
+.retry {
+	margin-top: 25px;
+	display: flex;
+	flex-direction: column;
+}
+
+.retry strong{
+	font-size: 25px;
+	color: #f37121;
+}
+
+.retry button {
+	align-self: center;
+	width: 25%;
+	margin-top: 15px;
+}
