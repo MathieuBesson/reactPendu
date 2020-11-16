@@ -28,7 +28,6 @@ class App extends Component {
                 this.setState({ lettersTry: [...lettersTry, ...touche], errors: errors+1 });
             }
         }
-        console.log(this.state.errors);
         setTimeout(() => this.setState({ reTry: (this.state.nbFound === this.state.goal.replaceAll(" ", "").length) ? true : false }), 1000)
     }
 
@@ -37,7 +36,6 @@ class App extends Component {
     }
 
     computeDisplay(phrase, usedletterss) {  
-        console.log(usedletterss);
         return phrase.replace(/\w/g, (letters) => (usedletterss.includes(letters) ? letters : '_'))
     }
 
