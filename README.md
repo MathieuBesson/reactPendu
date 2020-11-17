@@ -1,6 +1,6 @@
 # Pendu en React 
 
-Le Pendu est un jeu consistant à trouver un mot en devinant quelles sont les lettres qui le composent. Le jeu se joue traditionnellement à deux, avec un papier et un crayon, selon un déroulement bien particulier, ici j'ai essayez de créer une version plus simple dans le but de découvrir le framework React.
+Le Pendu est un jeu consistant à trouver un mot en devinant quelles sont les lettres qui le composent. Le jeu se joue traditionnellement à deux, avec un papier et un crayon, selon un déroulement bien particulier, ici j'ai essayé de créer une version plus simple dans le but de découvrir le framework React.
 
 Lien vers la version en ligne : https://mathieubesson-pendu.netlify.app 
 
