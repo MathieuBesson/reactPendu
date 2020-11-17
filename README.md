@@ -33,4 +33,4 @@ Lien vers la version en ligne : https://mathieubesson-pendu.netlify.app
 ### Remerciements
 
 * Merci de votre visite !
-* [![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BessonMathieu3)
+[![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BessonMathieu3)
